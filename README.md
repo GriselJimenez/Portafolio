@@ -1,10 +1,10 @@
 ### hey there 
 
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://www.researchgate.net/profile/Grisel-Jimenez-Soto">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://www.linkedin.com/in/jimenezgrisel/" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/georockgris?lang=en">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jimenezgrisel/">
