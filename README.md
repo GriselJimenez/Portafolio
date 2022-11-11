@@ -1,14 +1,14 @@
-### hey there 
+### Hello!
 
 </a>
 <a href="https://www.researchgate.net/profile/Grisel-Jimenez-Soto">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://www.linkedin.com/in/jimenezgrisel/" />
+  <img align="left" alt="Grisel's Researchgate" width="22px" src="https://www.linkedin.com/in/jimenezgrisel/" />
 </a>
 <a href="https://twitter.com/georockgris?lang=en">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Grisel Jimenez Soto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jimenezgrisel/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Grisel Jimenez's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
